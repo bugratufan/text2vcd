@@ -19,6 +19,5 @@ D4 -> data3, sample4
 BA -> data5, sample6
 50 -> data6, sample7
 ```
-::: warning
 *word_count must be 6 for this example.*
-:::
+
