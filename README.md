@@ -20,8 +20,8 @@ BA -> data5, sample6
 50 -> data6, sample7
 ```
 
-```` 
+
 ```
+**NOTE**
 word_count must be 6 for this example.
 ```
-```` 
