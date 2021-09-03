@@ -25,3 +25,7 @@ BA -> data5, sample6
 **NOTE**
 word_count must be 6 for this example.
 ---
+
+::: warning
+*here be dragons*
+:::
